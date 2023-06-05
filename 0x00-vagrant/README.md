@@ -1,1 +1,1 @@
-system information
+This is my vagrant directory
